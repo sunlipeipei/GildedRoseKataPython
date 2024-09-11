@@ -1,6 +1,10 @@
 *.log
 *.temp
-:wq
+*.pyc
+__pycache__/
+
+.env
+
 
 
 
